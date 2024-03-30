@@ -412,6 +412,14 @@ header {
         font-size: 22px;
         margin-bottom: 0.5rem;
     }
+
+    .swipe-section__rocket {
+        left: 3%;
+        bottom: unset;
+        top: 15%;
+        width: 100px;
+        /* height: auto; */
+    }
     
 }
 
