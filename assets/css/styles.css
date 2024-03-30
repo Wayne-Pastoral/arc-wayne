@@ -420,6 +420,13 @@ header {
         width: 100px;
         /* height: auto; */
     }
+
+    .swipe-section__planet {
+        width: 100px;
+        height: 100px;
+        right: 45%;
+        top: 15%;
+    }
     
 }
 
